@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @claire-d-b
+- 👀 I’m interested in C and C++
+- 🌱 I have been coding in C/C++ for 2 years and a half. I’m currently learning Typescript and Mithril js
+- 💞️ I’m looking to collaborate on computer graphics
