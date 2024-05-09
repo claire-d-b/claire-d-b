@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @claire-d-b
 - 👀 I’m interested in C and C++, Typescript & Javascript
 - 🌱 I have been coding in C/C++ for 2 years and a half. I’m currently learning python and php
-- 💞️ I’m working as an intern in web front
+- 💞️ I have worked as an intern in web front at Ninti
